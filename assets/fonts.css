@@ -1,0 +1,171 @@
+
+
+@font-face {
+    font-family: 'Salina Trial Extra Light'; 
+    src: 
+        url('./salina_font/Salina-Trial-ExtraLight.woff2') format('woff2'), 
+        url('./salina_font/Salina-Trial-ExtraLight.woff') format('woff'), 
+        url('./salina_font/Salina-Trial-ExtraLight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.font-Salina-ExtraLight {
+    font-family: 'Salina Trial Extra Light', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Extra Light Italic';
+    src: url('./salina_font/Salina-Trial-ExtraLightItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-ExtraLightItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-ExtraLightItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-ExtraLightItalic {
+    font-family: 'Salina Trial Extra Light Italic', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Light';
+    src: url('./salina_font/Salina-Trial-Light.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-Light.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-Light.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-Light {
+    font-family: 'Salina Trial Light', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Light Italic';
+    src: url('./salina_font/Salina-Trial-LightItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-LightItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-LightItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-LightItalic {
+    font-family: 'Salina Trial Light Italic', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Book';
+    src: url('./salina_font/Salina-Trial-Book.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-Book.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-Book.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-Book {
+    font-family: 'Salina Trial Book', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Book Italic';
+    src: url('./salina_font/Salina-Trial-BookItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-BookItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-BookItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-BookItalic {
+    font-family: 'Salina Trial Book Italic', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Regular';
+    src: url('./salina_font/Salina-Trial-Regular.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-Regular.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-Regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-Regular {
+    font-family: 'Salina Trial Regular', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Italic';
+    src: url('./salina_font/Salina-Trial-RegularItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-RegularItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-RegularItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-RegularItalic {
+    font-family: 'Salina Trial Italic', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Medium';
+    src: url('./salina_font/Salina-Trial-Medium.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-Medium.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-Medium.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-Medium {
+    font-family: 'Salina Trial Medium', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Medium Italic';
+    src: url('./salina_font/Salina-Trial-MediumItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-MediumItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-MediumItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-MediumItalic {
+    font-family: 'Salina Trial Medium Italic', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Bold';
+    src: url('./salina_font/Salina-Trial-Bold.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-Bold.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-Bold.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-Bold {
+    font-family: 'Salina Trial Bold', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Bold Italic';
+    src: url('./salina_font/Salina-Trial-BoldItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-BoldItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-BoldItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-BoldItalic {
+    font-family: 'Salina Trial Bold Italic', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Black';
+    src: url('./salina_font/Salina-Trial-Black.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-Black.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-Black.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-Black {
+    font-family: 'Salina Trial Black', sans-serif;
+}
+@font-face {
+    font-family: 'Salina Trial Black Italic';
+    src: url('./salina_font/Salina-Trial-BlackItalic.woff2') format('woff2'), 
+    url('./salina_font/Salina-Trial-BlackItalic.woff') format('woff'), 
+    url('./salina_font/Salina-Trial-BlackItalic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+.font-Salina-BlackItalic {
+    font-family: 'Salina Trial Black Italic', sans-serif;
+}
